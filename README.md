@@ -1,5 +1,5 @@
 # FreeCodeCampCertifications
-
+![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 Here are the Projects offered to me on [freeCodeCamp.org](https://www.freecodecamp.org). I've done it to improve my practical skills in Front-End Development.
 
 You can explore six core certifications of FCC by the links below.
